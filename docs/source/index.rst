@@ -79,6 +79,8 @@
     /activation_based/train_large_scale_snn
     /activation_based/stdp
     /activation_based/ann2snn
+    /activation_based/dsqn
+    /activation_based/ilc_san
     /legacy_tutorials
     /activation_based/cupy_neuron
     /activation_based/inference_on_lynxi
